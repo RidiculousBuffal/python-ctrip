@@ -1,0 +1,2102 @@
+{
+  "responseCode": 20000,
+  "responseDesc": "Success",
+  "countryList": [
+    {
+      "countryId": 99,
+      "name": "匈牙利",
+      "enName": "Hungary",
+      "code": "HU",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "36"
+    },
+    {
+      "countryId": 198,
+      "name": "尼加拉瓜",
+      "enName": "Nicaragua",
+      "code": "NI",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "505"
+    },
+    {
+      "countryId": 297,
+      "name": "圣巴泰勒米",
+      "enName": "Saint Barthelemy",
+      "code": "BL",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "590"
+    },
+    {
+      "countryId": 65,
+      "name": "毛里塔尼亚",
+      "enName": "Mauritania",
+      "code": "MR",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "222"
+    },
+    {
+      "countryId": 263,
+      "name": "新喀里多尼亚",
+      "enName": "New Caledonia",
+      "code": "NC",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "687"
+    },
+    {
+      "countryId": 67,
+      "name": "蒙古",
+      "enName": "Mongolia",
+      "code": "MN",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "976"
+    },
+    {
+      "countryId": 100,
+      "name": "叙利亚",
+      "enName": "Syria",
+      "code": "SY",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "963"
+    },
+    {
+      "countryId": 98,
+      "name": "新西兰",
+      "enName": "New Zealand",
+      "code": "NZ",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "64"
+    },
+    {
+      "countryId": 197,
+      "name": "北马其顿共和国",
+      "enName": "North Macedonia",
+      "code": "MK",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "389"
+    },
+    {
+      "countryId": 265,
+      "name": "特克斯和凯科斯群岛",
+      "enName": "Turks and Caicos Islands",
+      "code": "TC",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1649"
+    },
+    {
+      "countryId": 230,
+      "name": "密克罗尼西亚联邦",
+      "enName": "Federated States of Micronesia",
+      "code": "FM",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "691"
+    },
+    {
+      "countryId": 229,
+      "name": "马绍尔群岛",
+      "enName": "Marshall Islands",
+      "code": "MH",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "692"
+    },
+    {
+      "countryId": 231,
+      "name": "摩纳哥",
+      "enName": "Monaco",
+      "code": "MC",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "377"
+    },
+    {
+      "countryId": 200,
+      "name": "安道尔",
+      "enName": "Andorra",
+      "code": "AD",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "376"
+    },
+    {
+      "countryId": 35,
+      "name": "冈比亚",
+      "enName": "Gambia",
+      "code": "GM",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "220"
+    },
+    {
+      "countryId": 196,
+      "name": "斯威士兰",
+      "enName": "Eswatini",
+      "code": "SZ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "268"
+    },
+    {
+      "countryId": 299,
+      "name": "英属蒙塞拉特岛",
+      "enName": "Montserrat",
+      "code": "MS",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1664"
+    },
+    {
+      "countryId": 32,
+      "name": "菲律宾",
+      "enName": "Philippines",
+      "code": "PH",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "63"
+    },
+    {
+      "countryId": 31,
+      "name": "法国",
+      "enName": "France",
+      "code": "FR",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "33"
+    },
+    {
+      "countryId": 201,
+      "name": "安提瓜和巴布达",
+      "enName": "Antigua and Barbuda",
+      "code": "AG",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1268"
+    },
+    {
+      "countryId": 296,
+      "name": "萨摩亚",
+      "enName": "Samoa",
+      "code": "WS",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "685"
+    },
+    {
+      "countryId": 34,
+      "name": "芬兰",
+      "enName": "Finland",
+      "code": "FI",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "358"
+    },
+    {
+      "countryId": 36,
+      "name": "刚果民主共和国",
+      "enName": "Democratic Republic of the Congo",
+      "code": "CD",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "243"
+    },
+    {
+      "countryId": 294,
+      "name": "库拉索岛",
+      "enName": "Curacao",
+      "code": "CW",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "599"
+    },
+    {
+      "countryId": 295,
+      "name": "荷属圣马丁",
+      "enName": "Sint Maarten",
+      "code": "SX",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1721"
+    },
+    {
+      "countryId": 301,
+      "name": "南苏丹",
+      "enName": "South Sudan",
+      "code": "SS",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "211"
+    },
+    {
+      "countryId": 268,
+      "name": "格陵兰",
+      "enName": "Greenland",
+      "code": "GL",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "299"
+    },
+    {
+      "countryId": 70,
+      "name": "缅甸",
+      "enName": "Myanmar",
+      "code": "MM",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "95"
+    },
+    {
+      "countryId": 161,
+      "name": "马耳他",
+      "enName": "Malta",
+      "code": "MT",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "356"
+    },
+    {
+      "countryId": 37,
+      "name": "哥伦比亚",
+      "enName": "Colombia",
+      "code": "CO",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "57"
+    },
+    {
+      "countryId": 260,
+      "name": "文莱达鲁萨兰国",
+      "enName": "Brunei Darussalam",
+      "code": "BN",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "673"
+    },
+    {
+      "countryId": 94,
+      "name": "乌拉圭",
+      "enName": "Uruguay",
+      "code": "UY",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "598"
+    },
+    {
+      "countryId": 234,
+      "name": "瑙鲁",
+      "enName": "Nauru",
+      "code": "NR",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "674"
+    },
+    {
+      "countryId": 102,
+      "name": "也门",
+      "enName": "Yemen",
+      "code": "YE",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "967"
+    },
+    {
+      "countryId": 96,
+      "name": "希腊",
+      "enName": "Greece",
+      "code": "GR",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "30"
+    },
+    {
+      "countryId": 228,
+      "name": "马里",
+      "enName": "Mali",
+      "code": "ML",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "223"
+    },
+    {
+      "countryId": 226,
+      "name": "列支敦士登",
+      "enName": "Liechtenstein",
+      "code": "LI",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "423"
+    },
+    {
+      "countryId": 195,
+      "name": "土库曼斯坦",
+      "enName": "Turkmenistan",
+      "code": "TM",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "993"
+    },
+    {
+      "countryId": 236,
+      "name": "纽埃（新西兰属）",
+      "enName": "Niue",
+      "code": "NU",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "683"
+    },
+    {
+      "countryId": 62,
+      "name": "卢旺达",
+      "enName": "Rwanda",
+      "code": "RW",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "250"
+    },
+    {
+      "countryId": 104,
+      "name": "伊朗",
+      "enName": "Iran",
+      "code": "IR",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "98"
+    },
+    {
+      "countryId": 167,
+      "name": "梵蒂冈",
+      "enName": "Vatican",
+      "code": "VA",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "379"
+    },
+    {
+      "countryId": 64,
+      "name": "毛里求斯",
+      "enName": "Mauritius",
+      "code": "MU",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "230"
+    },
+    {
+      "countryId": 171,
+      "name": "阿鲁巴",
+      "enName": "Aruba",
+      "code": "AW",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "297"
+    },
+    {
+      "countryId": 270,
+      "name": "马约特",
+      "enName": "Mayotte",
+      "code": "YT",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "262"
+    },
+    {
+      "countryId": 163,
+      "name": "卡塔尔",
+      "enName": "Qatar",
+      "code": "QA",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "974"
+    },
+    {
+      "countryId": 68,
+      "name": "孟加拉国",
+      "enName": "Bangladesh",
+      "code": "BD",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "880"
+    },
+    {
+      "countryId": 159,
+      "name": "纳米比亚",
+      "enName": "Namibia",
+      "code": "NA",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "264"
+    },
+    {
+      "countryId": 72,
+      "name": "墨西哥",
+      "enName": "Mexico",
+      "code": "MX",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "52"
+    },
+    {
+      "countryId": 1,
+      "name": "中国",
+      "enName": "China",
+      "code": "CN",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "86"
+    },
+    {
+      "countryId": 3,
+      "name": "新加坡",
+      "enName": "Singapore",
+      "code": "SG",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "65"
+    },
+    {
+      "countryId": 7,
+      "name": "阿富汗",
+      "enName": "Afghanistan",
+      "code": "AF",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "93"
+    },
+    {
+      "countryId": 5,
+      "name": "阿尔巴尼亚",
+      "enName": "Albania",
+      "code": "AL",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "355"
+    },
+    {
+      "countryId": 679749,
+      "name": "皮特凯恩群岛",
+      "enName": "Pitcairn Islands",
+      "code": "PN",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "64"
+    },
+    {
+      "countryId": 107,
+      "name": "印度",
+      "enName": "India",
+      "code": "IN",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "91"
+    },
+    {
+      "countryId": 91,
+      "name": "委内瑞拉",
+      "enName": "Venezuela",
+      "code": "VE",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "58"
+    },
+    {
+      "countryId": 289,
+      "name": "圣皮埃尔和密克隆岛",
+      "enName": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "508"
+    },
+    {
+      "countryId": 240,
+      "name": "塞拉利昂",
+      "enName": "Sierra Leone",
+      "code": "SL",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "232"
+    },
+    {
+      "countryId": 74,
+      "name": "尼泊尔",
+      "enName": "Nepal",
+      "code": "NP",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "977"
+    },
+    {
+      "countryId": 75,
+      "name": "尼日利亚",
+      "enName": "Nigeria",
+      "code": "NG",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "234"
+    },
+    {
+      "countryId": 156,
+      "name": "塞内加尔",
+      "enName": "Senegal",
+      "code": "SN",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "221"
+    },
+    {
+      "countryId": 59,
+      "name": "利比里亚",
+      "enName": "Liberia",
+      "code": "LR",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "231"
+    },
+    {
+      "countryId": 108,
+      "name": "印度尼西亚",
+      "enName": "Indonesia",
+      "code": "ID",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "62"
+    },
+    {
+      "countryId": 224,
+      "name": "科摩罗",
+      "enName": "Comoros",
+      "code": "KM",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "269"
+    },
+    {
+      "countryId": 26,
+      "name": "朝鲜",
+      "enName": "Democratic People's Republic of Korea",
+      "code": "KP",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "850"
+    },
+    {
+      "countryId": 23,
+      "name": "波兰",
+      "enName": "Poland",
+      "code": "PL",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "48"
+    },
+    {
+      "countryId": 273,
+      "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+      "enName": "Saint Helena, Ascension and Tristan da Cunha",
+      "code": "SH",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "290"
+    },
+    {
+      "countryId": 39,
+      "name": "古巴",
+      "enName": "Cuba",
+      "code": "CU",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "53"
+    },
+    {
+      "countryId": 27,
+      "name": "丹麦",
+      "enName": "Denmark",
+      "code": "DK",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "45"
+    },
+    {
+      "countryId": 225,
+      "name": "拉脱维亚",
+      "enName": "Latvia",
+      "code": "LV",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "371"
+    },
+    {
+      "countryId": 286,
+      "name": "瓦利斯和富图纳群岛",
+      "enName": "Wallis and Futuna",
+      "code": "WF",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "681"
+    },
+    {
+      "countryId": 55,
+      "name": "老挝",
+      "enName": "Laos",
+      "code": "LA",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "856"
+    },
+    {
+      "countryId": 221,
+      "name": "基里巴斯",
+      "enName": "Kiribati",
+      "code": "KI",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "686"
+    },
+    {
+      "countryId": 220,
+      "name": "格林纳达",
+      "enName": "Grenada",
+      "code": "GD",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1473"
+    },
+    {
+      "countryId": 38,
+      "name": "哥斯达黎加",
+      "enName": "Costa Rica",
+      "code": "CR",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "506"
+    },
+    {
+      "countryId": 205,
+      "name": "巴勒斯坦",
+      "enName": "Palestine",
+      "code": "PS",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "970"
+    },
+    {
+      "countryId": 43,
+      "name": "荷兰",
+      "enName": "Netherlands",
+      "code": "NL",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "31"
+    },
+    {
+      "countryId": 42,
+      "name": "韩国",
+      "enName": "South Korea",
+      "code": "KR",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "82"
+    },
+    {
+      "countryId": 209,
+      "name": "波黑",
+      "enName": "Bosnia and Herzegovina",
+      "code": "BA",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "387"
+    },
+    {
+      "countryId": 208,
+      "name": "波多黎各",
+      "enName": "Puerto Rico",
+      "code": "PR",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1787"
+    },
+    {
+      "countryId": 103,
+      "name": "伊拉克",
+      "enName": "Iraq",
+      "code": "IQ",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "964"
+    },
+    {
+      "countryId": 111,
+      "name": "越南",
+      "enName": "Vietnam",
+      "code": "VN",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "84"
+    },
+    {
+      "countryId": 285,
+      "name": "诺福克岛（澳属）",
+      "enName": "Norfolk Island",
+      "code": "NF",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "672"
+    },
+    {
+      "countryId": 119,
+      "name": "乌克兰",
+      "enName": "Ukraine",
+      "code": "UA",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "380"
+    },
+    {
+      "countryId": 95,
+      "name": "西班牙",
+      "enName": "Spain",
+      "code": "ES",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "34"
+    },
+    {
+      "countryId": 269,
+      "name": "留尼汪（法属）",
+      "enName": "Reunion",
+      "code": "RE",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "262"
+    },
+    {
+      "countryId": 30,
+      "name": "俄罗斯",
+      "enName": "Russia",
+      "code": "RU",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "7"
+    },
+    {
+      "countryId": 71,
+      "name": "摩洛哥",
+      "enName": "Morocco",
+      "code": "MA",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "212"
+    },
+    {
+      "countryId": 277,
+      "name": "福克兰群岛",
+      "enName": "Falkland Islands",
+      "code": "FK",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "500"
+    },
+    {
+      "countryId": 152,
+      "name": "博茨瓦纳",
+      "enName": "Botswana",
+      "code": "BW",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "267"
+    },
+    {
+      "countryId": 184,
+      "name": "厄立特里亚",
+      "enName": "Eritrea",
+      "code": "ER",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "291"
+    },
+    {
+      "countryId": 144,
+      "name": "乌兹别克斯坦",
+      "enName": "Uzbekistan",
+      "code": "UZ",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "998"
+    },
+    {
+      "countryId": 22,
+      "name": "冰岛",
+      "enName": "Iceland",
+      "code": "IS",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "354"
+    },
+    {
+      "countryId": 63,
+      "name": "罗马尼亚",
+      "enName": "Romania",
+      "code": "RO",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "40"
+    },
+    {
+      "countryId": 237,
+      "name": "帕劳",
+      "enName": "Palau",
+      "code": "PW",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "680"
+    },
+    {
+      "countryId": 2,
+      "name": "马来西亚",
+      "enName": "Malaysia",
+      "code": "MY",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "60"
+    },
+    {
+      "countryId": 6,
+      "name": "阿尔及利亚",
+      "enName": "Algeria",
+      "code": "DZ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "213"
+    },
+    {
+      "countryId": 245,
+      "name": "圣马力诺",
+      "enName": "San Marino",
+      "code": "SM",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "378"
+    },
+    {
+      "countryId": 14,
+      "name": "奥地利",
+      "enName": "Austria",
+      "code": "AT",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "43"
+    },
+    {
+      "countryId": 180,
+      "name": "格鲁吉亚",
+      "enName": "Georgia",
+      "code": "GE",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "995"
+    },
+    {
+      "countryId": 176,
+      "name": "哈萨克斯坦",
+      "enName": "Kazakhstan",
+      "code": "KZ",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "7"
+    },
+    {
+      "countryId": 261,
+      "name": "瓜德罗普岛",
+      "enName": "Guadeloupe",
+      "code": "GP",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "590"
+    },
+    {
+      "countryId": 10,
+      "name": "埃及",
+      "enName": "Egypt",
+      "code": "EG",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "20"
+    },
+    {
+      "countryId": 164,
+      "name": "克罗地亚",
+      "enName": "Croatia",
+      "code": "HR",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "385"
+    },
+    {
+      "countryId": 160,
+      "name": "汤加",
+      "enName": "Tonga",
+      "code": "TO",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "676"
+    },
+    {
+      "countryId": 79,
+      "name": "瑞典",
+      "enName": "Sweden",
+      "code": "SE",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "46"
+    },
+    {
+      "countryId": 536010,
+      "name": "法属圭亚那",
+      "enName": "French Guiana",
+      "code": "GF",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "594"
+    },
+    {
+      "countryId": 257,
+      "name": "黑山",
+      "enName": "Montenegro",
+      "code": "ME",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "382"
+    },
+    {
+      "countryId": 83,
+      "name": "斯里兰卡",
+      "enName": "Sri Lanka",
+      "code": "LK",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "94"
+    },
+    {
+      "countryId": 253,
+      "name": "图瓦卢",
+      "enName": "Tuvalu",
+      "code": "TV",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "688"
+    },
+    {
+      "countryId": 87,
+      "name": "坦桑尼亚",
+      "enName": "Tanzania",
+      "code": "TZ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "255"
+    },
+    {
+      "countryId": 249,
+      "name": "索马里",
+      "enName": "Somalia",
+      "code": "SO",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "252"
+    },
+    {
+      "countryId": 679746,
+      "name": "南乔治亚和南桑德韦奇",
+      "enName": "South Georgia and the SouthSandwich Islands",
+      "code": "GS",
+      "continentId": 7,
+      "continentName": "南极洲",
+      "areaCode": "500"
+    },
+    {
+      "countryId": 214,
+      "name": "赤道几内亚",
+      "enName": "Equatorial Guinea",
+      "code": "GQ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "240"
+    },
+    {
+      "countryId": 247,
+      "name": "斯洛伐克",
+      "enName": "Slovakia",
+      "code": "SK",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "421"
+    },
+    {
+      "countryId": 50,
+      "name": "柬埔寨",
+      "enName": "Cambodia",
+      "code": "KH",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "855"
+    },
+    {
+      "countryId": 49,
+      "name": "加蓬",
+      "enName": "Gabon",
+      "code": "GA",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "241"
+    },
+    {
+      "countryId": 182,
+      "name": "摩尔多瓦",
+      "enName": "Moldova",
+      "code": "MD",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "373"
+    },
+    {
+      "countryId": 280,
+      "name": "美属维尔京群岛",
+      "enName": "U.S. Virgin Islands",
+      "code": "VI",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1340"
+    },
+    {
+      "countryId": 181,
+      "name": "苏里南",
+      "enName": "Suriname",
+      "code": "SR",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "597"
+    },
+    {
+      "countryId": 115,
+      "name": "智利",
+      "enName": "Chile",
+      "code": "CL",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "56"
+    },
+    {
+      "countryId": 279,
+      "name": "马提尼克",
+      "enName": "Martinique",
+      "code": "MQ",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "596"
+    },
+    {
+      "countryId": 150,
+      "name": "阿曼",
+      "enName": "Oman",
+      "code": "OM",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "968"
+    },
+    {
+      "countryId": 17,
+      "name": "巴基斯坦",
+      "enName": "Pakistan",
+      "code": "PK",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "92"
+    },
+    {
+      "countryId": 18,
+      "name": "巴拿马",
+      "enName": "Panama",
+      "code": "PA",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "507"
+    },
+    {
+      "countryId": 147,
+      "name": "巴拉圭",
+      "enName": "Paraguay",
+      "code": "PY",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "595"
+    },
+    {
+      "countryId": 217,
+      "name": "多米尼克",
+      "enName": "Dominica",
+      "code": "DM",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1767"
+    },
+    {
+      "countryId": 48,
+      "name": "加纳",
+      "enName": "Ghana",
+      "code": "GH",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "233"
+    },
+    {
+      "countryId": 282,
+      "name": "英属维尔京群岛",
+      "enName": "British Virgin Islands",
+      "code": "VG",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1284"
+    },
+    {
+      "countryId": 47,
+      "name": "加拿大",
+      "enName": "Canada",
+      "code": "CA",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1"
+    },
+    {
+      "countryId": 114,
+      "name": "乍得",
+      "enName": "Chad",
+      "code": "TD",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "235"
+    },
+    {
+      "countryId": 216,
+      "name": "多哥",
+      "enName": "Togo",
+      "code": "TG",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "228"
+    },
+    {
+      "countryId": 51,
+      "name": "津巴布韦",
+      "enName": "Zimbabwe",
+      "code": "ZW",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "263"
+    },
+    {
+      "countryId": 118,
+      "name": "巴林",
+      "enName": "Bahrain",
+      "code": "BH",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "973"
+    },
+    {
+      "countryId": 52,
+      "name": "喀麦隆",
+      "enName": "Cameroon",
+      "code": "CM",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "237"
+    },
+    {
+      "countryId": 283,
+      "name": "法罗群岛",
+      "enName": "Faroe Islands",
+      "code": "FO",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "298"
+    },
+    {
+      "countryId": 46,
+      "name": "几内亚",
+      "enName": "Guinea",
+      "code": "GN",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "224"
+    },
+    {
+      "countryId": 215,
+      "name": "东帝汶",
+      "enName": "Timor-Leste",
+      "code": "TL",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "670"
+    },
+    {
+      "countryId": 213,
+      "name": "布基纳法索",
+      "enName": "Burkina Faso",
+      "code": "BF",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "226"
+    },
+    {
+      "countryId": 212,
+      "name": "不丹",
+      "enName": "Bhutan",
+      "code": "BT",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "975"
+    },
+    {
+      "countryId": 276,
+      "name": "多米尼加共和国",
+      "enName": "Dominican Republic",
+      "code": "DO",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1"
+    },
+    {
+      "countryId": 153,
+      "name": "巴布亚新几内亚",
+      "enName": "Papua New Guinea",
+      "code": "PG",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "675"
+    },
+    {
+      "countryId": 78,
+      "name": "日本",
+      "enName": "Japan",
+      "code": "JP",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "81"
+    },
+    {
+      "countryId": 112,
+      "name": "赞比亚",
+      "enName": "Zambia",
+      "code": "ZM",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "260"
+    },
+    {
+      "countryId": 284,
+      "name": "科科斯（基林）群岛",
+      "enName": "Cocos (Keeling) Islands",
+      "code": "CC",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "61"
+    },
+    {
+      "countryId": 244,
+      "name": "圣卢西亚",
+      "enName": "Saint Lucia",
+      "code": "LC",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1758"
+    },
+    {
+      "countryId": 54,
+      "name": "肯尼亚",
+      "enName": "Kenya",
+      "code": "KE",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "254"
+    },
+    {
+      "countryId": 13,
+      "name": "安哥拉",
+      "enName": "Angola",
+      "code": "AO",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "244"
+    },
+    {
+      "countryId": 143,
+      "name": "吉尔吉斯斯坦",
+      "enName": "Kyrgyzstan",
+      "code": "KG",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "996"
+    },
+    {
+      "countryId": 151,
+      "name": "白俄罗斯",
+      "enName": "Belarus",
+      "code": "BY",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "375"
+    },
+    {
+      "countryId": 110,
+      "name": "约旦",
+      "enName": "Jordan",
+      "code": "JO",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "962"
+    },
+    {
+      "countryId": 185,
+      "name": "巴哈马",
+      "enName": "Bahamas",
+      "code": "BS",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1242"
+    },
+    {
+      "countryId": 187,
+      "name": "莱索托",
+      "enName": "Lesotho",
+      "code": "LS",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "266"
+    },
+    {
+      "countryId": 19,
+      "name": "巴西",
+      "enName": "Brazil",
+      "code": "BR",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "55"
+    },
+    {
+      "countryId": 145,
+      "name": "阿塞拜疆",
+      "enName": "Azerbaijan",
+      "code": "AZ",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "994"
+    },
+    {
+      "countryId": 21,
+      "name": "比利时",
+      "enName": "Belgium",
+      "code": "BE",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "32"
+    },
+    {
+      "countryId": 175,
+      "name": "亚美尼亚",
+      "enName": "Armenia",
+      "code": "AM",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "374"
+    },
+    {
+      "countryId": 183,
+      "name": "塞尔维亚",
+      "enName": "Serbia",
+      "code": "RS",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "381"
+    },
+    {
+      "countryId": 15,
+      "name": "澳大利亚",
+      "enName": "Australia",
+      "code": "AU",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "61"
+    },
+    {
+      "countryId": 155,
+      "name": "厄瓜多尔",
+      "enName": "Ecuador",
+      "code": "EC",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "593"
+    },
+    {
+      "countryId": 76,
+      "name": "挪威",
+      "enName": "Norway",
+      "code": "NO",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "47"
+    },
+    {
+      "countryId": 242,
+      "name": "圣多美和普林西比",
+      "enName": "Sao Tome and Principe",
+      "code": "ST",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "239"
+    },
+    {
+      "countryId": 11,
+      "name": "埃塞俄比亚",
+      "enName": "Ethiopia",
+      "code": "ET",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "251"
+    },
+    {
+      "countryId": 179,
+      "name": "科特迪瓦",
+      "enName": "Côte d'Ivoire",
+      "code": "CI",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "225"
+    },
+    {
+      "countryId": 90,
+      "name": "危地马拉",
+      "enName": "Guatemala",
+      "code": "GT",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "502"
+    },
+    {
+      "countryId": 80,
+      "name": "瑞士",
+      "enName": "Switzerland",
+      "code": "CH",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "41"
+    },
+    {
+      "countryId": 252,
+      "name": "特立尼达和多巴哥",
+      "enName": "Trinidad and Tobago",
+      "code": "TT",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1868"
+    },
+    {
+      "countryId": 246,
+      "name": "圣文森特和格林纳丁斯",
+      "enName": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1784"
+    },
+    {
+      "countryId": 88,
+      "name": "突尼斯",
+      "enName": "Tunisia",
+      "code": "TN",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "216"
+    },
+    {
+      "countryId": 250,
+      "name": "塔吉克斯坦",
+      "enName": "Tajikistan",
+      "code": "TJ",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "992"
+    },
+    {
+      "countryId": 84,
+      "name": "斯洛文尼亚",
+      "enName": "Slovenia",
+      "code": "SI",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "386"
+    },
+    {
+      "countryId": 82,
+      "name": "沙特阿拉伯",
+      "enName": "Saudi Arabia",
+      "code": "SA",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "966"
+    },
+    {
+      "countryId": 248,
+      "name": "所罗门群岛",
+      "enName": "Solomon Islands",
+      "code": "SB",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "677"
+    },
+    {
+      "countryId": 254,
+      "name": "瓦努阿图",
+      "enName": "Vanuatu",
+      "code": "VU",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "678"
+    },
+    {
+      "countryId": 536511,
+      "name": "托克劳群岛",
+      "enName": "Tokelau",
+      "code": "TK",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "690"
+    },
+    {
+      "countryId": 239,
+      "name": "美属萨摩亚",
+      "enName": "American Samoa",
+      "code": "AS",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "1684"
+    },
+    {
+      "countryId": 25,
+      "name": "布隆迪",
+      "enName": "Burundi",
+      "code": "BI",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "257"
+    },
+    {
+      "countryId": 256,
+      "name": "中非共和国",
+      "enName": "Central African Republic",
+      "code": "CF",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "236"
+    },
+    {
+      "countryId": 222,
+      "name": "几内亚比绍",
+      "enName": "Guinea-bissau",
+      "code": "GW",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "245"
+    },
+    {
+      "countryId": 223,
+      "name": "开曼群岛",
+      "enName": "Cayman Islands",
+      "code": "KY",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1345"
+    },
+    {
+      "countryId": 8,
+      "name": "阿根廷",
+      "enName": "Argentina",
+      "code": "AR",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "54"
+    },
+    {
+      "countryId": 9,
+      "name": "阿联酋",
+      "enName": "United Arab Emirates",
+      "code": "AE",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "971"
+    },
+    {
+      "countryId": 157,
+      "name": "莫桑比克",
+      "enName": "Mozambique",
+      "code": "MZ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "258"
+    },
+    {
+      "countryId": 271,
+      "name": "刚果共和国",
+      "enName": "Republic of the Congo",
+      "code": "CG",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "242"
+    },
+    {
+      "countryId": 238,
+      "name": "萨尔瓦多",
+      "enName": "El Salvador",
+      "code": "SV",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "503"
+    },
+    {
+      "countryId": 24,
+      "name": "玻利维亚",
+      "enName": "Bolivia",
+      "code": "BO",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "591"
+    },
+    {
+      "countryId": 57,
+      "name": "立陶宛",
+      "enName": "Lithuania",
+      "code": "LT",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "370"
+    },
+    {
+      "countryId": 191,
+      "name": "库克群岛",
+      "enName": "Cook Islands",
+      "code": "CK",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "682"
+    },
+    {
+      "countryId": 106,
+      "name": "意大利",
+      "enName": "Italy",
+      "code": "IT",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "39"
+    },
+    {
+      "countryId": 60,
+      "name": "利比亚",
+      "enName": "Libya",
+      "code": "LY",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "218"
+    },
+    {
+      "countryId": 109,
+      "name": "英国",
+      "enName": "United Kingdom",
+      "code": "GB",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "44"
+    },
+    {
+      "countryId": 56,
+      "name": "黎巴嫩",
+      "enName": "Lebanon",
+      "code": "LB",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "961"
+    },
+    {
+      "countryId": 287,
+      "name": "直布罗陀",
+      "enName": "Gibraltar",
+      "code": "GI",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "350"
+    },
+    {
+      "countryId": 207,
+      "name": "百慕大",
+      "enName": "Bermuda",
+      "code": "BM",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1441"
+    },
+    {
+      "countryId": 210,
+      "name": "伯利兹",
+      "enName": "Belize",
+      "code": "BZ",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "501"
+    },
+    {
+      "countryId": 40,
+      "name": "圭亚那",
+      "enName": "Guyana",
+      "code": "GY",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "592"
+    },
+    {
+      "countryId": 45,
+      "name": "吉布提",
+      "enName": "Djibouti",
+      "code": "DJ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "253"
+    },
+    {
+      "countryId": 44,
+      "name": "洪都拉斯",
+      "enName": "Honduras",
+      "code": "HN",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "504"
+    },
+    {
+      "countryId": 291,
+      "name": "法属圣马丁",
+      "enName": "French Saint Martin",
+      "code": "MF",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "590"
+    },
+    {
+      "countryId": 41,
+      "name": "海地",
+      "enName": "Haiti",
+      "code": "HT",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "509"
+    },
+    {
+      "countryId": 292,
+      "name": "南极洲",
+      "enName": "Antarctica",
+      "code": "AQ",
+      "continentId": 7,
+      "continentName": "南极洲",
+      "areaCode": "672"
+    },
+    {
+      "countryId": 202,
+      "name": "巴巴多斯",
+      "enName": "Barbados",
+      "code": "BB",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1246"
+    },
+    {
+      "countryId": 227,
+      "name": "马达加斯加",
+      "enName": "Madagascar",
+      "code": "MG",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "261"
+    },
+    {
+      "countryId": 4,
+      "name": "泰国",
+      "enName": "Thailand",
+      "code": "TH",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "66"
+    },
+    {
+      "countryId": 219,
+      "name": "佛得角",
+      "enName": "Cape Verde",
+      "code": "CV",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "238"
+    },
+    {
+      "countryId": 12,
+      "name": "爱尔兰",
+      "enName": "Ireland",
+      "code": "IE",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "353"
+    },
+    {
+      "countryId": 243,
+      "name": "圣基茨和尼维斯",
+      "enName": "Saint Kitts and Nevis",
+      "code": "KN",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1869"
+    },
+    {
+      "countryId": 53,
+      "name": "科威特",
+      "enName": "Kuwait",
+      "code": "KW",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "965"
+    },
+    {
+      "countryId": 178,
+      "name": "贝宁",
+      "enName": "Benin",
+      "code": "BJ",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "229"
+    },
+    {
+      "countryId": 61,
+      "name": "卢森堡",
+      "enName": "Luxembourg",
+      "code": "LU",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "352"
+    },
+    {
+      "countryId": 69,
+      "name": "秘鲁",
+      "enName": "Peru",
+      "code": "PE",
+      "continentId": 5,
+      "continentName": "南美洲",
+      "areaCode": "51"
+    },
+    {
+      "countryId": 28,
+      "name": "德国",
+      "enName": "Germany",
+      "code": "DE",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "49"
+    },
+    {
+      "countryId": 275,
+      "name": "安圭拉",
+      "enName": "Anguilla",
+      "code": "AI",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1264"
+    },
+    {
+      "countryId": 186,
+      "name": "马拉维",
+      "enName": "Malawi",
+      "code": "MW",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "265"
+    },
+    {
+      "countryId": 20,
+      "name": "保加利亚",
+      "enName": "Bulgaria",
+      "code": "BG",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "359"
+    },
+    {
+      "countryId": 105,
+      "name": "以色列",
+      "enName": "Israel",
+      "code": "IL",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "972"
+    },
+    {
+      "countryId": 146,
+      "name": "马尔代夫",
+      "enName": "Maldives",
+      "code": "MV",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "960"
+    },
+    {
+      "countryId": 101,
+      "name": "牙买加",
+      "enName": "Jamaica",
+      "code": "JM",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1876"
+    },
+    {
+      "countryId": 89,
+      "name": "土耳其",
+      "enName": "Türkiye",
+      "code": "TR",
+      "continentId": 1,
+      "continentName": "亚洲",
+      "areaCode": "90"
+    },
+    {
+      "countryId": 158,
+      "name": "尼日尔",
+      "enName": "Niger",
+      "code": "NE",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "227"
+    },
+    {
+      "countryId": 93,
+      "name": "乌干达",
+      "enName": "Uganda",
+      "code": "UG",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "256"
+    },
+    {
+      "countryId": 73,
+      "name": "南非",
+      "enName": "South Africa",
+      "code": "ZA",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "27"
+    },
+    {
+      "countryId": 166,
+      "name": "爱沙尼亚",
+      "enName": "Estonia",
+      "code": "EE",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "372"
+    },
+    {
+      "countryId": 174,
+      "name": "塞舌尔",
+      "enName": "Seychelles",
+      "code": "SC",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "248"
+    },
+    {
+      "countryId": 259,
+      "name": "荷兰加勒比区",
+      "enName": "Caribbean Netherlands",
+      "code": "BQ",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "599"
+    },
+    {
+      "countryId": 77,
+      "name": "葡萄牙",
+      "enName": "Portugal",
+      "code": "PT",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "351"
+    },
+    {
+      "countryId": 162,
+      "name": "捷克",
+      "enName": "Czech Republic",
+      "code": "CZ",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "420"
+    },
+    {
+      "countryId": 85,
+      "name": "苏丹",
+      "enName": "Sudan",
+      "code": "SD",
+      "continentId": 6,
+      "continentName": "非洲",
+      "areaCode": "249"
+    },
+    {
+      "countryId": 81,
+      "name": "塞浦路斯",
+      "enName": "Cyprus",
+      "code": "CY",
+      "continentId": 2,
+      "continentName": "欧洲",
+      "areaCode": "357"
+    },
+    {
+      "countryId": 684367,
+      "name": "克里米亚",
+      "enName": "Crimea",
+      "code": "",
+      "continentId": 2,
+      "continentName": "欧洲"
+    },
+    {
+      "countryId": 66,
+      "name": "美国",
+      "enName": "United States",
+      "code": "US",
+      "continentId": 4,
+      "continentName": "北美洲",
+      "areaCode": "1"
+    },
+    {
+      "countryId": 264,
+      "name": "法属波利尼西亚",
+      "enName": "French Polynesia",
+      "code": "PF",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "689"
+    },
+    {
+      "countryId": 33,
+      "name": "斐济",
+      "enName": "Fiji",
+      "code": "FJ",
+      "continentId": 3,
+      "continentName": "大洋洲",
+      "areaCode": "679"
+    }
+  ]
+}
