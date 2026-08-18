@@ -5,11 +5,14 @@ description = "ctrip python sdk"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "asyncio>=4.0.0",
     "httpx>=0.28.1",
+    "pydantic>=2.11.7",
+]
+
+[dependency-groups]
+dev = [
     "openpyxl>=3.1.5",
     "pandas>=2.3.2",
-    "pydantic>=2.11.7",
     "python-dotenv>=1.1.1",
 ]
 [build-system]
