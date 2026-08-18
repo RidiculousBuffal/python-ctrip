@@ -1,6 +1,6 @@
 [project]
 name = "python-ctrip"
-version = "0.1.16"
+version = "0.1.17"
 description = "ctrip python sdk"
 readme = "README.md"
 requires-python = ">=3.11"
